@@ -1,0 +1,17 @@
+dfa36f8 (HEAD -> master, origin/master, origin/HEAD) HEAD@{0}: checkout: moving from bug2 to master
+c90693e (origin/bug2, bug2) HEAD@{1}: commit (merge): Fix conflict
+dfa36f8 (HEAD -> master, origin/master, origin/HEAD) HEAD@{2}: checkout: moving from master to bug2
+dfa36f8 (HEAD -> master, origin/master, origin/HEAD) HEAD@{3}: merge bug2: Fast-forward
+41979b9 (origin/bug1, bug1) HEAD@{4}: checkout: moving from bug2 to master
+dfa36f8 (HEAD -> master, origin/master, origin/HEAD) HEAD@{5}: rebase (finish): returning to refs/heads/bug2
+dfa36f8 (HEAD -> master, origin/master, origin/HEAD) HEAD@{6}: commit: Fix conflict when merging
+e51b591 HEAD@{7}: rebase (pick): Fix wrong condition in makeBigStringForm
+41979b9 (origin/bug1, bug1) HEAD@{8}: rebase (start): checkout master
+3e79793 HEAD@{9}: checkout: moving from master to bug2
+41979b9 (origin/bug1, bug1) HEAD@{10}: merge bug1: Fast-forward
+bb44cf4 HEAD@{11}: checkout: moving from bug2 to master
+3e79793 HEAD@{12}: commit: Call method makeBigStringFrom in main class
+b74f0cd HEAD@{13}: checkout: moving from bug1 to bug2
+41979b9 (origin/bug1, bug1) HEAD@{14}: commit: Call method filterOddLengthStrings in main class
+03fb0d2 HEAD@{15}: checkout: moving from master to bug1
+bb44cf4 HEAD@{16}: checkout: moving from bug2 to master
